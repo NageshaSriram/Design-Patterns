@@ -6,7 +6,7 @@ public class Tester {
 		A a = new A();
 		A a1 = new B();
 		B b = new B();
-		B b1 = new A(); // not possible
+		//B b1 = new A(); // not possible
 		b.methodB();
 	}
 
